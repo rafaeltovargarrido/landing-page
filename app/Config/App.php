@@ -21,7 +21,7 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'rafa';
+	public $baseURL = 'http://dev.redindev.com/';
 
 	/*
 	|--------------------------------------------------------------------------
