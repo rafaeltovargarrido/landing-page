@@ -16,7 +16,8 @@
         <!-- Third party plugin CSS-->
         <link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" rel="stylesheet" />
         <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="css/styles.css" rel="stylesheet" />
+		<link rel="stylesheet" href="<?php echo base_url("assets/css/styles.css"); ?>">
+
     </head>
     <body id="page-top">
         <!-- Navigation-->
