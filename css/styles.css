@@ -70,6 +70,9 @@
 }
 
 
+.h-perso {
+  height: 90% !important;
+}
 /* boostrap original */
 
 
@@ -2505,7 +2508,7 @@ fieldset:disabled a.btn {
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
   background-color: var(--ourRed);
-  border-color: #ee3e0d;
+  border-color: var(--ourRed);
   box-shadow: 0 0 0 0.2rem rgba(246, 122, 88, 0.5);
 }
 .btn-primary.disabled, .btn-primary:disabled {
